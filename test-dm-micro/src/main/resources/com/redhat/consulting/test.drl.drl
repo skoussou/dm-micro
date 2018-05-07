@@ -4,7 +4,7 @@ rule ruletest1
 
 when
 
-true
+eval(true)
 
 then
 
